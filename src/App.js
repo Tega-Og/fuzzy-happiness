@@ -19,6 +19,7 @@ function App() {
             rel="noopener noreferrer"
           >
             Learn React
+            <h1> I dont know what to do</h1>
           </a>
         </p>
       </header>
